@@ -1,4 +1,4 @@
-## css-masonry
+# css-masonry
 
 Masonry layout built entirely with CSS. Using the CSS3 rule 'column-count' we can
 easily create a masonry type layout without having to resort to JavaScript. Using an Autoprefixer in the build,
@@ -9,7 +9,7 @@ more details.
 
 Working demo can be [found here](http://www.kreative.co.uk/github/css-masonry).
 
-# Commands
+## Commands
 
 To install:
 
