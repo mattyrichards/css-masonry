@@ -1,0 +1,29 @@
+{
+  "name": "css-masonry",
+  "version": "1.0.0",
+  "description": "Masonry layout built entirely with CSS (responsive)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattyrichards/css-masonry.git"
+  },
+  "keywords": [
+    "masonry",
+    "css",
+    "column-count"
+  ],
+  "author": "Matt Richards",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattyrichards/css-masonry/issues"
+  },
+  "homepage": "https://github.com/mattyrichards/css-masonry#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-sass": "^2.2.0"
+  }
+}
