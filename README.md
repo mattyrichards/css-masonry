@@ -7,7 +7,7 @@ we can ensure this CSS is [cross-browser compatible back to IE10](http://caniuse
 Responsiveness is extremely easy. We simply adjust the number of columns on our breakpoints. See the source Sass file for
 more details.
 
-Working demo can be [found here](http://www.kreative.co.uk/github/css-masonry).
+Working demo can be [found here](http://www.mttrchrds.com/github/css-masonry).
 
 ## Commands
 
